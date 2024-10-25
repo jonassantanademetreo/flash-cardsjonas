@@ -12,7 +12,7 @@ criaCartao(
     )
     criaCartao(
         'conhecimentos gerais',
-        'Quem pintou "Guernica"?'
+        'Quem pintou "Guernica"?',
         ' Pablo Picasso'
         
         )

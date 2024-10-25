@@ -23,3 +23,4 @@ criaCartao(
             'Dalton, Thomson, Rutherford, Rutherford-Bohr'
             
             )
+             

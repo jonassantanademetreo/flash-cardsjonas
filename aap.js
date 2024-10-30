@@ -24,5 +24,5 @@ cartao.classList.toggle('active, respostaEstaVisivel');
 
 cartao.addEventListener('cliock', viraCartao);
 
-    container.appendChild(cartao)
+ container.appendChild(cartao) 
 }

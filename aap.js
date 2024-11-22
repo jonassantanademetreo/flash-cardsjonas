@@ -22,7 +22,7 @@ respostaEstaVisivel = !respostaEstaVisivel
 cartao.classList.toggle('active, respostaEstaVisivel');
 }
 
-cartao.addEventListener('cliock', viraCartao);
+cartao.addEventListener('click', viraCartao);
 
  container.appendChild(cartao) 
 }
